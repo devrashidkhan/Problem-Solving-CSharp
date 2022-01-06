@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Name_Greeting/1.0.0": {
+        "runtime": {
+          "Name_Greeting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Name_Greeting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\bin\Debug\net6.0\Name_Greeting.exe
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\bin\Debug\net6.0\Name_Greeting.deps.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\bin\Debug\net6.0\Name_Greeting.runtimeconfig.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\bin\Debug\net6.0\Name_Greeting.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\bin\Debug\net6.0\ref\Name_Greeting.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\bin\Debug\net6.0\Name_Greeting.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.csproj.AssemblyReference.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.AssemblyInfoInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.AssemblyInfo.cs
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.csproj.CoreCompileInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\ref\Name_Greeting.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Name_Greeting\obj\Debug\net6.0\Name_Greeting.genruntimeconfig.cache
