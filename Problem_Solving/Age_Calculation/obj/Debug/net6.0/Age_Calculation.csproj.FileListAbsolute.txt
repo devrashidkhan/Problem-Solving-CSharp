@@ -1,0 +1,15 @@
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\bin\Debug\net6.0\Age_Calculation.exe
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\bin\Debug\net6.0\Age_Calculation.deps.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\bin\Debug\net6.0\Age_Calculation.runtimeconfig.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\bin\Debug\net6.0\Age_Calculation.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\bin\Debug\net6.0\ref\Age_Calculation.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\bin\Debug\net6.0\Age_Calculation.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.csproj.AssemblyReference.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.AssemblyInfoInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.AssemblyInfo.cs
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.csproj.CoreCompileInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\ref\Age_Calculation.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Age_Calculation\obj\Debug\net6.0\Age_Calculation.genruntimeconfig.cache

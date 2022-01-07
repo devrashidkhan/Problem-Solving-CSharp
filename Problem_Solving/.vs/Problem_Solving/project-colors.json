@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2175e392-14a5-440e-a65a-8b59f241b84d": {
+      "ProjectGuid": "2175e392-14a5-440e-a65a-8b59f241b84d",
+      "DisplayName": "Basic_Variable_Assignment",
+      "ColorIndex": 0
+    },
+    "55829d2b-200d-4083-8a9e-82d9661e825a": {
+      "ProjectGuid": "55829d2b-200d-4083-8a9e-82d9661e825a",
+      "DisplayName": "Name_Greeting",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
