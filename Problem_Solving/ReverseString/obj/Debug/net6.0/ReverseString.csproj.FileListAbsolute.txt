@@ -1,0 +1,15 @@
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\bin\Debug\net6.0\ReverseString.exe
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\bin\Debug\net6.0\ReverseString.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\bin\Debug\net6.0\ref\ReverseString.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.csproj.AssemblyReference.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache

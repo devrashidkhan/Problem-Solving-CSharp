@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AgeCalculation", "AgeCalcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Age_Calculation", "Age_Calculation\Age_Calculation.csproj", "{2C891C85-26E6-447F-8B65-017F9DF87221}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReverseString", "ReverseString", "{6D4BE0D4-B231-4993-870F-642097C82F00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{5F2E8294-AECF-4700-B8A3-A6CAFF5B143E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{2C891C85-26E6-447F-8B65-017F9DF87221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C891C85-26E6-447F-8B65-017F9DF87221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C891C85-26E6-447F-8B65-017F9DF87221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2E8294-AECF-4700-B8A3-A6CAFF5B143E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2E8294-AECF-4700-B8A3-A6CAFF5B143E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2E8294-AECF-4700-B8A3-A6CAFF5B143E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2E8294-AECF-4700-B8A3-A6CAFF5B143E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{2175E392-14A5-440E-A65A-8B59F241B84D} = {27894CEE-A337-4236-9349-EA9915F94B2F}
 		{55829D2B-200D-4083-8A9E-82D9661E825A} = {C932586C-D7DB-4E05-A545-FE3C9296EBE3}
 		{2C891C85-26E6-447F-8B65-017F9DF87221} = {EAF147B7-2503-4465-B480-EAFD4F19FD66}
+		{5F2E8294-AECF-4700-B8A3-A6CAFF5B143E} = {6D4BE0D4-B231-4993-870F-642097C82F00}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77EC5CA4-E97E-4BF6-BA6A-B3E1A220FC7D}
