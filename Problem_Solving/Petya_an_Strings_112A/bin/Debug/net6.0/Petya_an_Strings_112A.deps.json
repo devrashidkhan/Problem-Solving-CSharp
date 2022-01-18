@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Petya_an_Strings_112A/1.0.0": {
+        "runtime": {
+          "Petya_an_Strings_112A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Petya_an_Strings_112A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

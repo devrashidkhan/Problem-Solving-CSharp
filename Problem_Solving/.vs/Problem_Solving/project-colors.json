@@ -10,7 +10,27 @@
       "ProjectGuid": "55829d2b-200d-4083-8a9e-82d9661e825a",
       "DisplayName": "Name_Greeting",
       "ColorIndex": 1
+    },
+    "5f2e8294-aecf-4700-b8a3-a6caff5b143e": {
+      "ProjectGuid": "5f2e8294-aecf-4700-b8a3-a6caff5b143e",
+      "DisplayName": "ReverseString",
+      "ColorIndex": 2
+    },
+    "51fc27cb-5f9d-4864-b74e-ea2e38336ac6": {
+      "ProjectGuid": "51fc27cb-5f9d-4864-b74e-ea2e38336ac6",
+      "DisplayName": "Reverse_Number",
+      "ColorIndex": 3
+    },
+    "c1f07cff-8800-4211-bd0a-0345404634d0": {
+      "ProjectGuid": "c1f07cff-8800-4211-bd0a-0345404634d0",
+      "DisplayName": "BeautifulMatrix_263A",
+      "ColorIndex": 4
+    },
+    "0a2f2f2b-e6fd-440e-bdeb-6ddd1061c22a": {
+      "ProjectGuid": "0a2f2f2b-e6fd-440e-bdeb-6ddd1061c22a",
+      "DisplayName": "Petya_an_Strings_112A",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
