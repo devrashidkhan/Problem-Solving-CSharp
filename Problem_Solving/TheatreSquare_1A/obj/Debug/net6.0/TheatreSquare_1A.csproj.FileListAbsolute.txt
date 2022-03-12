@@ -1,0 +1,15 @@
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\bin\Debug\net6.0\TheatreSquare_1A.exe
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\bin\Debug\net6.0\TheatreSquare_1A.deps.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\bin\Debug\net6.0\TheatreSquare_1A.runtimeconfig.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\bin\Debug\net6.0\TheatreSquare_1A.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\bin\Debug\net6.0\ref\TheatreSquare_1A.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\bin\Debug\net6.0\TheatreSquare_1A.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.csproj.AssemblyReference.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.AssemblyInfoInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.AssemblyInfo.cs
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.csproj.CoreCompileInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\ref\TheatreSquare_1A.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\TheatreSquare_1A\obj\Debug\net6.0\TheatreSquare_1A.genruntimeconfig.cache

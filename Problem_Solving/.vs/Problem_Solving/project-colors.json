@@ -30,7 +30,12 @@
       "ProjectGuid": "0a2f2f2b-e6fd-440e-bdeb-6ddd1061c22a",
       "DisplayName": "Petya_an_Strings_112A",
       "ColorIndex": 5
+    },
+    "ecc86783-6f43-48b7-8e02-6d7114974496": {
+      "ProjectGuid": "ecc86783-6f43-48b7-8e02-6d7114974496",
+      "DisplayName": "TheatreSquare_1A",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

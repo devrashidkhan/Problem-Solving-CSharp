@@ -1,0 +1,14 @@
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

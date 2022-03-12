@@ -1,0 +1,5 @@
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Reverse_Number\obj\Debug\net6.0\Reverse_Number.csproj.AssemblyReference.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Reverse_Number\obj\Debug\net6.0\Reverse_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Reverse_Number\obj\Debug\net6.0\Reverse_Number.AssemblyInfoInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Reverse_Number\obj\Debug\net6.0\Reverse_Number.AssemblyInfo.cs
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\Reverse_Number\obj\Debug\net6.0\Reverse_Number.csproj.CoreCompileInputs.cache

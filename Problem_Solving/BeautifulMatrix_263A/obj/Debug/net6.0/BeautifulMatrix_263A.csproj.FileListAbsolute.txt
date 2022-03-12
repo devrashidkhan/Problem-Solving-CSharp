@@ -1,0 +1,4 @@
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\BeautifulMatrix_263A\obj\Debug\net6.0\BeautifulMatrix_263A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\BeautifulMatrix_263A\obj\Debug\net6.0\BeautifulMatrix_263A.AssemblyInfoInputs.cache
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\BeautifulMatrix_263A\obj\Debug\net6.0\BeautifulMatrix_263A.AssemblyInfo.cs
+D:\Problem Solving C#\Problem-Solving-CSharp\Problem_Solving\BeautifulMatrix_263A\obj\Debug\net6.0\BeautifulMatrix_263A.csproj.CoreCompileInputs.cache

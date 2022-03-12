@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicVariableAssignment", "BasicVariableAssignment", "{27894CEE-A337-4236-9349-EA9915F94B2F}"
 EndProject
@@ -25,9 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse_Number", "Reverse_N
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Codeforces", "Codeforces", "{430135F2-A487-4B32-83F2-1B241765F67B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulMatrix_263A", "BeautifulMatrix_263A\BeautifulMatrix_263A.csproj", "{C1F07CFF-8800-4211-BD0A-0345404634D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautifulMatrix_263A", "BeautifulMatrix_263A\BeautifulMatrix_263A.csproj", "{C1F07CFF-8800-4211-BD0A-0345404634D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petya_an_Strings_112A", "Petya_an_Strings_112A\Petya_an_Strings_112A.csproj", "{0A2F2F2B-E6FD-440E-BDEB-6DDD1061C22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petya_an_Strings_112A", "Petya_an_Strings_112A\Petya_an_Strings_112A.csproj", "{0A2F2F2B-E6FD-440E-BDEB-6DDD1061C22A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheatreSquare_1A", "TheatreSquare_1A\TheatreSquare_1A.csproj", "{ECC86783-6F43-48B7-8E02-6D7114974496}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{32EF196A-65AD-49DE-A4F6-BC20378C5025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word", "Word\Word.csproj", "{1E554308-730B-4289-8ABA-AA8A6E0205B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{0A2F2F2B-E6FD-440E-BDEB-6DDD1061C22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2F2F2B-E6FD-440E-BDEB-6DDD1061C22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2F2F2B-E6FD-440E-BDEB-6DDD1061C22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC86783-6F43-48B7-8E02-6D7114974496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC86783-6F43-48B7-8E02-6D7114974496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC86783-6F43-48B7-8E02-6D7114974496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC86783-6F43-48B7-8E02-6D7114974496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32EF196A-65AD-49DE-A4F6-BC20378C5025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EF196A-65AD-49DE-A4F6-BC20378C5025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EF196A-65AD-49DE-A4F6-BC20378C5025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EF196A-65AD-49DE-A4F6-BC20378C5025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E554308-730B-4289-8ABA-AA8A6E0205B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E554308-730B-4289-8ABA-AA8A6E0205B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E554308-730B-4289-8ABA-AA8A6E0205B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E554308-730B-4289-8ABA-AA8A6E0205B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +93,8 @@ Global
 		{51FC27CB-5F9D-4864-B74E-EA2E38336AC6} = {790AB7B0-3B5E-4C07-BBAC-9D1252F86636}
 		{C1F07CFF-8800-4211-BD0A-0345404634D0} = {430135F2-A487-4B32-83F2-1B241765F67B}
 		{0A2F2F2B-E6FD-440E-BDEB-6DDD1061C22A} = {430135F2-A487-4B32-83F2-1B241765F67B}
+		{ECC86783-6F43-48B7-8E02-6D7114974496} = {430135F2-A487-4B32-83F2-1B241765F67B}
+		{1E554308-730B-4289-8ABA-AA8A6E0205B9} = {430135F2-A487-4B32-83F2-1B241765F67B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77EC5CA4-E97E-4BF6-BA6A-B3E1A220FC7D}
