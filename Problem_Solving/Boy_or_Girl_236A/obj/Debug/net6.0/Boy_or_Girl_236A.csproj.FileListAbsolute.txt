@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\bin\Debug\net6.0\Boy_or_Girl_236A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\bin\Debug\net6.0\Boy_or_Girl_236A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\bin\Debug\net6.0\Boy_or_Girl_236A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\bin\Debug\net6.0\Boy_or_Girl_236A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\bin\Debug\net6.0\Boy_or_Girl_236A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\refint\Boy_or_Girl_236A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\Boy_or_Girl_236A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Boy_or_Girl_236A\obj\Debug\net6.0\ref\Boy_or_Girl_236A.dll

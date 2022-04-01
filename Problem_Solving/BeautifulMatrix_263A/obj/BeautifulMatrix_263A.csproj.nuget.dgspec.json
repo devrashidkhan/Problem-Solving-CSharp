@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Problem Solving C#\\Problem-Solving-CSharp\\Problem_Solving\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj": {}
+    "E:\\C# Batch-10\\C# Exam & Assignment\\rashidkhan-csharpb10\\src\\Assignment2\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj": {}
   },
   "projects": {
-    "D:\\Problem Solving C#\\Problem-Solving-CSharp\\Problem_Solving\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj": {
+    "E:\\C# Batch-10\\C# Exam & Assignment\\rashidkhan-csharpb10\\src\\Assignment2\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Problem Solving C#\\Problem-Solving-CSharp\\Problem_Solving\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj",
+        "projectUniqueName": "E:\\C# Batch-10\\C# Exam & Assignment\\rashidkhan-csharpb10\\src\\Assignment2\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj",
         "projectName": "BeautifulMatrix_263A",
-        "projectPath": "D:\\Problem Solving C#\\Problem-Solving-CSharp\\Problem_Solving\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj",
+        "projectPath": "E:\\C# Batch-10\\C# Exam & Assignment\\rashidkhan-csharpb10\\src\\Assignment2\\BeautifulMatrix_263A\\BeautifulMatrix_263A.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Problem Solving C#\\Problem-Solving-CSharp\\Problem_Solving\\BeautifulMatrix_263A\\obj\\",
+        "outputPath": "E:\\C# Batch-10\\C# Exam & Assignment\\rashidkhan-csharpb10\\src\\Assignment2\\BeautifulMatrix_263A\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

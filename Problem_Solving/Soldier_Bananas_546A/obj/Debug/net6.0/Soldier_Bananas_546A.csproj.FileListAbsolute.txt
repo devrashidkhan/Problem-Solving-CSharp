@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\bin\Debug\net6.0\Soldier_Bananas_546A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\bin\Debug\net6.0\Soldier_Bananas_546A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\bin\Debug\net6.0\Soldier_Bananas_546A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\bin\Debug\net6.0\Soldier_Bananas_546A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\bin\Debug\net6.0\Soldier_Bananas_546A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\refint\Soldier_Bananas_546A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\Soldier_Bananas_546A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Soldier_Bananas_546A\obj\Debug\net6.0\ref\Soldier_Bananas_546A.dll

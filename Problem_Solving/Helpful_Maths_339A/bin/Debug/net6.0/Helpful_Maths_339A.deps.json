@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Helpful_Maths_339A/1.0.0": {
+        "runtime": {
+          "Helpful_Maths_339A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Helpful_Maths_339A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\bin\Debug\net6.0\Helpful_Maths_339A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\bin\Debug\net6.0\Helpful_Maths_339A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\bin\Debug\net6.0\Helpful_Maths_339A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\bin\Debug\net6.0\Helpful_Maths_339A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\bin\Debug\net6.0\Helpful_Maths_339A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\refint\Helpful_Maths_339A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\Helpful_Maths_339A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Helpful_Maths_339A\obj\Debug\net6.0\ref\Helpful_Maths_339A.dll

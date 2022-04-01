@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\bin\Debug\net6.0\Bit++_282A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\bin\Debug\net6.0\Bit++_282A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\bin\Debug\net6.0\Bit++_282A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\bin\Debug\net6.0\Bit++_282A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\bin\Debug\net6.0\Bit++_282A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\refint\Bit++_282A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\Bit++_282A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Bit++_282A\obj\Debug\net6.0\ref\Bit++_282A.dll

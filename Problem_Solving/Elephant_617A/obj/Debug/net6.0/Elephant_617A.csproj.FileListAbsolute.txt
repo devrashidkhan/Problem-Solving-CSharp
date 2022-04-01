@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\bin\Debug\net6.0\Elephant_617A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\bin\Debug\net6.0\Elephant_617A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\bin\Debug\net6.0\Elephant_617A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\bin\Debug\net6.0\Elephant_617A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\bin\Debug\net6.0\Elephant_617A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\refint\Elephant_617A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\Elephant_617A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Elephant_617A\obj\Debug\net6.0\ref\Elephant_617A.dll

@@ -1,12 +1,23 @@
-﻿int x = 0;
-for (int i = 1; i <= 5; ++i)
+﻿using System;
+
+namespace BeautifulMatrix_263A
 {
-    for (int j = 1; j <= 5; ++j)
+    class Program
     {
-        
-        if (x == 1)
+        static void Main(string[] args)
         {
-            Console.WriteLine(x(i - 3) + x(j - 3));
+            int size = int.Parse(Console.ReadLine());
+
+            int[,] num = new int[size, size];
+            for (int i = 0; i < size; i++)
+            {
+                string row = Console.ReadLine();
+                string[] numbers = row.Split(' ');
+                for (int j = 0; j < numbers.Length && j < size; j++)
+                {
+                    num[i, j] = int.Parse(numbers[j]);
+                }
+            }
         }
     }
 }

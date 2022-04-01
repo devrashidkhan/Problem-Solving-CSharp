@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\bin\Debug\net6.0\Petya_Strings_112A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\bin\Debug\net6.0\Petya_Strings_112A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\bin\Debug\net6.0\Petya_Strings_112A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\bin\Debug\net6.0\Petya_Strings_112A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\bin\Debug\net6.0\Petya_Strings_112A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\refint\Petya_Strings_112A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\Petya_Strings_112A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Petya_Strings_112A\obj\Debug\net6.0\ref\Petya_Strings_112A.dll

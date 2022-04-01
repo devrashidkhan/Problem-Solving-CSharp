@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\bin\Debug\net6.0\StringTask_118A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\bin\Debug\net6.0\StringTask_118A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\bin\Debug\net6.0\StringTask_118A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\bin\Debug\net6.0\StringTask_118A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\bin\Debug\net6.0\StringTask_118A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\refint\StringTask_118A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\StringTask_118A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\StringTask_118A\obj\Debug\net6.0\ref\StringTask_118A.dll

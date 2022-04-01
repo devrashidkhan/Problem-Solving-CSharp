@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\bin\Debug\net6.0\Chat_Room_58A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\bin\Debug\net6.0\Chat_Room_58A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\bin\Debug\net6.0\Chat_Room_58A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\bin\Debug\net6.0\Chat_Room_58A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\bin\Debug\net6.0\Chat_Room_58A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\refint\Chat_Room_58A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\Chat_Room_58A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Chat_Room_58A\obj\Debug\net6.0\ref\Chat_Room_58A.dll

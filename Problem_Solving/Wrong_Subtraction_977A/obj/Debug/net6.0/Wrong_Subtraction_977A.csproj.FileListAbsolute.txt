@@ -1,0 +1,15 @@
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\bin\Debug\net6.0\Wrong_Subtraction_977A.exe
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\bin\Debug\net6.0\Wrong_Subtraction_977A.deps.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\bin\Debug\net6.0\Wrong_Subtraction_977A.runtimeconfig.json
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\bin\Debug\net6.0\Wrong_Subtraction_977A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\bin\Debug\net6.0\Wrong_Subtraction_977A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.csproj.AssemblyReference.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.AssemblyInfoInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.AssemblyInfo.cs
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.csproj.CoreCompileInputs.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\refint\Wrong_Subtraction_977A.dll
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.pdb
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\Wrong_Subtraction_977A.genruntimeconfig.cache
+E:\C# Batch-10\C# Exam & Assignment\rashidkhan-csharpb10\src\Assignment2\Wrong_Subtraction_977A\obj\Debug\net6.0\ref\Wrong_Subtraction_977A.dll
